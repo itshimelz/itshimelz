@@ -19,9 +19,9 @@ Additionally, I am currently learning Artificial Intelligence and diving into th
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itshimelz&layout=compact)](https://github.com/itshimelz/github-readme-stats)
 
 <a href="https://github.com/itshimelz?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-badge&logo=Plex&logoColor=white"></a>
-<a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=style=badge&logo=Python&logoColor=white"></a>
-<a href="https://github.com/alwinw?tab=repositories&language=r" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-276DC3?style=style=badge&logo=Kotlin&logoColor=white"></a>
-<a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=style=badge&logo=C&logoColor=white"></a>
+<a href="https://github.com/itshimelz?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=style=badge&logo=Python&logoColor=white"></a>
+<a href="https://github.com/itshimelz?tab=repositories=kotlin" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-276DC3?style=style=badge&logo=Kotlin&logoColor=white"></a>
+<a href="https://github.com/itshimelz?tab=repositories=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=style=badge&logo=C&logoColor=white"></a>
 ---
 
 <div align=center>
