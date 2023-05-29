@@ -5,8 +5,6 @@
 </p>
 
 ## 📖 About me
-Hello, I'm Himel, a freelance graphic designer specializing in digital and social media design. With over 2 years of experience, I have developed a strong expertise in creating visually appealing and engaging designs for various platforms. My skills extend to using software like Photoshop, Illustrator, and Adobe Premiere Pro to bring ideas to life.
-
 I am currently studying Computer Science and Engineering (CSE) at a university, where I am gaining a solid foundation in various aspects of technology and programming. Alongside my studies, I am passionate about combining my design skills with my interest in technology. I am proficient in C, Python, Java, and Kotlin, enabling me to create software solutions and explore the intersection of design and technology.
 
 Additionally, I am currently learning Artificial Intelligence and diving into the exciting world of AI algorithms, machine learning, and data analysis. I am eager to apply this knowledge to develop intelligent and innovative solutions.
