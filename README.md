@@ -11,6 +11,10 @@
     <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=style=badge&logo=C&logoColor=white"></a>
 </p>
 
+### 📰 Recent Blog Posts
+
+- [The Future of Learning: Examining the Role of Large Language Models in Education](https://medium.com/@itshimelz/largelarge-language-model-and-its-impact-and-possibilities-on-the-education-system-c0314b1dc0c9)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itshimelz&layout=compact)](https://github.com/itshimelz/github-readme-stats)
 
 ---
@@ -26,5 +30,3 @@
    <a href="https://gpvc.arturio.dev/itshimelz"> <img alt="Rahat Hossain Himel Github" src="https://gpvc.arturio.dev/itshimelz"> </a>
 </p>
 </div>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itshimelz&show_icons=true)
