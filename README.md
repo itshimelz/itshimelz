@@ -13,12 +13,13 @@ Additionally, I am currently learning Artificial Intelligence and diving into th
 ---
 ### 🧑‍💻 Skills
 
-- Graphics Design ![Graphics Design](https://img.shields.io/badge/-Graphics%20Design-blue?style=flat&logo=adobe%20photoshop&logoColor=white)
-- Video Editing ![Video Editing](https://img.shields.io/badge/-Video%20Editing-red?style=flat&logo=YouTube&logoColor=white)
 - Adobe Photoshop ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001932?style=flat&logo=adobe%20photoshop&logoColor=white)
 - Adobe Illustrator ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-300000?style=flat&logo=adobe%20illustrator&logoColor=white)
 - Canva ![Canva](https://img.shields.io/badge/-Canva-blue?style=flat&logo=canva&logoColor=white)
 - Adobe Premiere Pro ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-1d1f50?style=flat&logo=adobe%20premiere%20pro&logoColor=white)
+
+![Graphics Design](https://img.shields.io/badge/-Graphics%20Design-blue?style=flat&logo=adobe%20photoshop&logoColor=white) ![Video Editing](https://img.shields.io/badge/-Video%20Editing-red?style=flat&logo=YouTube&logoColor=white)
+
 
 ### 📰 Recent Blog Posts
 - [The Future of Learning: Examining the Role of Large Language Models in Education](https://medium.com/@itshimelz/largelarge-language-model-and-its-impact-and-possibilities-on-the-education-system-c0314b1dc0c9)
