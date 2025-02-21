@@ -73,7 +73,7 @@ I have experience in **Android Development (Jetpack Compose, MVVM), Web Developm
   <a href="mailto:himelhasan1215@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<br><br>
+<br>
 <p align="center">
   <a href="https://github.com/itshimelz"><img alt="Rahat H. Himel GitHub" src="https://img.shields.io/github/followers/itshimelz?label=Followers&style=social"></a>
 </p>
