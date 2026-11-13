@@ -14,7 +14,7 @@
 
 I am **Rahat H. Himel**, a **Software Engineer & Android Developer** studying Computer Science and Engineering at **Green University of Bangladesh** and contributing to the **Green University Computer Club (GUCC)**.
 
-Currently, I work as an **Android Developer** on **Byakaron** at [Nuhu Labs](https://nuhulabs.com), building a HeliBoard-derived Kotlin Android keyboard integrated with a native core engine across JNI/FFI and Android ABI boundaries. I also build local-first desktop apps with **Tauri 2, Rust, React, and TypeScript**, and full-stack web applications with **Next.js, Node.js, PostgreSQL, Supabase, and Prisma**—using AI coding assistants (**Claude Code, Cursor, OpenCode**) in an iterative, test-validated workflow.
+Currently, I work as an **Android Developer** on **Byakaron**, building a HeliBoard-derived Kotlin Android keyboard integrated with a native core engine across JNI/FFI and Android ABI boundaries. I also build local-first desktop apps with **Tauri 2, Rust, React, and TypeScript**, and full-stack web applications with **Next.js, Node.js, PostgreSQL, Supabase, and Prisma**—using AI coding assistants (**Claude Code, Cursor, OpenCode**) in an iterative, test-validated workflow.
 
 🌐 Portfolio & CV: **[itshimelz.me](https://itshimelz.me)**
 
@@ -54,7 +54,7 @@ Currently, I work as an **Android Developer** on **Byakaron** at [Nuhu Labs](htt
 ---
 
 ## 📂 Projects
-- **[Byakaron](https://nuhulabs.com)** – Bengali keyboard and transliteration engine for Android built with **Kotlin, Android SDK, and JNI/FFI** at Nuhu Labs.
+- **Byakaron** – Bengali keyboard and transliteration engine for Android built with **Kotlin, Android SDK, and JNI/FFI**.
 - **[Mimir](https://mimir.himelz.studio)** ([GitHub](https://github.com/itshimelz/mimir)) – Desktop-first, local-first agentic study workspace built with **Tauri 2, Rust, React, and TypeScript**.
 - **[DiaryNote](https://github.com/itshimelz/DiaryNote)** – Local-first infinite canvas Markdown notes desktop application built with **Tauri, TypeScript, and React**.
 - **[Data Integrity Ledger](https://github.com/itshimelz/DataIntegrityLedger)** – Tamper-evident cryptographic academic records system using **Next.js, TypeScript, and Node.js**.
